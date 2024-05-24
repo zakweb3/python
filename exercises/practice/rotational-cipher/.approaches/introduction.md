@@ -13,7 +13,7 @@ The letter in the encrypted string is shifted for as many values (or "positions"
 
 This approach is straightforward to understand.
 It uses the ascii value of the letters to rotate them within the message.
-The numbers 65-91 in the ascii range represent lowercase Latin letters, while 97-123 represent uppercase Latin letters.
+The numbers 65-91 in the ascii range represent uppercase Latin letters, while 97-123 represent lowercase Latin letters.
 
 ~~~~exercism/caution
 
